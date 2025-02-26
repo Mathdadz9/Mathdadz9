@@ -10,13 +10,6 @@
   <p>👨‍💻 Estou sempre buscando aprender novas tecnologias e contribuir para a comunidade de código aberto.</p>
 </div>
 
----
-
-<div align="center">
-  <h3>🌱 Status Atual:</h3>
-  <p>Estou aprendendo **[Programação em java/JavaScript]**! Se você também curte, vamos conversar sobre isso! 🚀</p>
-</div>
-
 &nbsp;
 &nbsp;
 
@@ -42,7 +35,7 @@
 
 <div align="center">
   <h3>📫 Como me encontrar:</h3>
-  <p>🔗 <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">LinkedIn</a> | 📧 <a href="mailto:Matheuscrippacrippa@gmail.com">Email</a></p>
+  <p>🔗 <a href="Wa.me" target="_blank">Zap</a> | 📧 <a href="mailto:Matheuscrippacrippa@gmail.com">Email</a></p>
 </div>
 
 ---
