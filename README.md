@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <h2>🎉 Seja bem-vindo ao meu perfil no GitHub! 🎉</h2>
-  <p>💻 Aqui você vai encontrar meus projetos, contribuições e muito mais. Vamos codar e compartilhar conhecimento! 🚀</p>
-  <p>👨‍💻 Estou sempre buscando aprender novas tecnologias e contribuir para a comunidade de código aberto.</p>
+  <h2 style="font-family: 'Fira Code', monospace; color: #1E90FF;">🎉 Seja bem-vindo ao meu perfil no GitHub! 🎉</h2>
+  <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; color: #333;">💻 Aqui você vai encontrar meus projetos, contribuições e muito mais. Vamos codar e compartilhar conhecimento! 🚀</p>
+  <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; color: #333;">👨‍💻 Estou sempre buscando aprender novas tecnologias e contribuir para a comunidade de código aberto.</p>
 </div>
 
 &nbsp;
@@ -34,12 +34,12 @@
 &nbsp;
 
 <div align="center">
-  <h3>📫 Como me encontrar:</h3>
-  <p>🔗 <a href="Wa.me" target="_blank">Zap</a> | 📧 <a href="mailto:Matheuscrippacrippa@gmail.com">Email</a></p>
+  <h3 style="font-family: 'Fira Code', monospace; color: #FF6347;">📫 Como me encontrar:</h3>
+  <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; color: #333;">🔗 <a href="https://wa.me" target="_blank" style="text-decoration: none; color: #32CD32;">Zap</a> | 📧 <a href="mailto:Matheuscrippacrippa@gmail.com" style="text-decoration: none; color: #32CD32;">Email</a></p>
 </div>
 
 ---
 
 <div align="center">
-  <h4>🔄 Contribua para meus projetos! <a href="https://github.com/seuusuario/seuprojeto">Clique aqui!</a></h4>
+  <h4 style="font-family: 'Fira Code', monospace; color: #FF4500;">🔄 Contribua para meus projetos! <a href="https://github.com/seuusuario/seuprojeto" style="text-decoration: none; color: #FF6347;">Clique aqui!</a></h4>
 </div>
