@@ -1,8 +1,23 @@
-<div align="center" style="background: linear-gradient(90deg, #00BFFF 0%, #1E90FF 100%); padding: 40px 20px; border-radius: 15px; color: white; font-family: 'Fira Code', monospace;">
-  <h1 style="font-size: 3rem; margin-bottom: 10px;">👋 Olá, eu sou <span style="color:#FFD700;">Matheus Crippa</span>!</h1>
-  <p style="font-size: 1.5rem; margin: 5px 0;">✨ Apaixonado por <strong>Tecnologia</strong> e <strong>Programação</strong></p>
-  <p style="font-size: 1.2rem; margin: 5px 0;">💻 Bem-vindo ao meu <strong>GitHub</strong> — vamos codar juntos! 🚀</p>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Coding Animation" width="150" style="margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+<div align="center" style="background: linear-gradient(135deg, #1E90FF, #00BFFF); padding: 60px 30px; border-radius: 20px; box-shadow: 0 8px 30px rgba(30,144,255,0.7); font-family: 'Fira Code', monospace; color: white; max-width: 900px; margin: auto;">
+
+  <h1 style="font-size: 3.5rem; margin-bottom: 0.2em; text-shadow: 2px 2px 6px rgba(0,0,0,0.6);">
+    👋 Olá, eu sou <span style="color: #FFD700;">Matheus Crippa</span>!
+  </h1>
+  
+  <p style="font-size: 1.7rem; margin: 0.1em 0 0.6em 0; text-shadow: 1px 1px 4px rgba(0,0,0,0.5);">
+    🚀 Apaixonado por <strong>Tecnologia</strong> e <strong>Programação</strong>
+  </p>
+  
+  <p style="font-size: 1.2rem; max-width: 600px; margin: auto; text-shadow: 1px 1px 3px rgba(0,0,0,0.4);">
+    💻 Seja bem-vindo ao meu <strong>GitHub</strong>! Aqui você encontra meus projetos, estudos e muita vontade de crescer na área de TI.
+  </p>
+  
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" 
+    alt="Laptop Code Icon" 
+    width="130" 
+    style="margin-top: 30px; filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.5));"
+  />
 </div>
 
 ---
