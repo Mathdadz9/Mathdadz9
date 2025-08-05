@@ -1,86 +1,151 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Matheus+Crippa!;Apaixonado+por+Tecnologia+e+Programação.;Seja+bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Matheus+Crippa!;Apaixonado+por+Tecnologia+e+Programação.;Seja+bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=140&section=header&text=Bem-vindo+👨‍💻&fontSize=50&fontAlign=70&fontColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bem-vindo+👨‍💻&fontSize=55&fontColor=ffffff&animation=twinkle" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Tecnologia da Informação no SENAI, atualmente no 4º semestre.
-- 🖥️ Iniciei recentemente cursos de Java e Python, ampliando meus conhecimentos em backend.
-- 🚀 Apaixonado por desenvolvimento fullstack e novas tecnologias.
-- 💡 Focado em aprender constantemente e aplicar boas práticas de programação.
-- 🤝 Aberto a oportunidades, colaborações e freelas.
+<p align="center" style="max-width: 650px; font-size: 1.1em;">
+🎓 Estudante de TI no SENAI (4º semestre) | Iniciando cursos de Java & Python<br>
+🚀 Fullstack entusiasta, sempre explorando novas tecnologias e melhores práticas.<br>
+💡 Gosto de transformar ideias em código, resolver problemas e aprender diariamente.<br>
+🤝 Aberto a colaborações, freelas e novos desafios!
+</p>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: auto;">
+  <!-- card exemplo -->
+  <div style="background: linear-gradient(135deg, #3178c6, #1e3a8a); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(49 120 198 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="24" style="vertical-align: middle; margin-right: 8px;" /> TypeScript
+  </div>
+  <div style="background: linear-gradient(135deg, #f0db4f, #f7e018); color: #000; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(240 219 79 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="24" style="vertical-align: middle; margin-right: 8px;" /> JavaScript
+  </div>
+  <div style="background: linear-gradient(135deg, #3776ab, #244a6d); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(55 118 171 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Py" width="24" style="vertical-align: middle; margin-right: 8px;" /> Python
+  </div>
+  <div style="background: linear-gradient(135deg, #dd1b16, #a31612); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(221 27 22 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="24" style="vertical-align: middle; margin-right: 8px;" /> Angular
+  </div>
+  <div style="background: linear-gradient(135deg, #02569b, #013a5a); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(2 86 155 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="24" style="vertical-align: middle; margin-right: 8px;" /> Flutter
+  </div>
+  <div style="background: linear-gradient(135deg, #777bb4, #4a3f85); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(119 123 180 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="24" style="vertical-align: middle; margin-right: 8px;" /> PHP
+  </div>
+  <div style="background: linear-gradient(135deg, #c6538c, #952e5e); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(198 83 140 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="24" style="vertical-align: middle; margin-right: 8px;" /> SCSS
+  </div>
+  <div style="background: linear-gradient(135deg, #6e5494, #4b2e6a); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(110 84 148 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" style="vertical-align: middle; margin-right: 8px;" /> GitHub
+  </div>
+  <div style="background: linear-gradient(135deg, #ff6f61, #b23a2d); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(255 111 97 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24" style="vertical-align: middle; margin-right: 8px;" /> MySQL
+  </div>
+  <div style="background: linear-gradient(135deg, #4abf50, #2b772e); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(74 191 80 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="24" style="vertical-align: middle; margin-right: 8px;" /> Bash
+  </div>
+  <div style="background: linear-gradient(135deg, #00599c, #003b6f); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(0 89 156 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24" style="vertical-align: middle; margin-right: 8px;" /> C++
+  </div>
+  <div style="background: linear-gradient(135deg, #064f8c, #042e57); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(6 79 140 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="24" style="vertical-align: middle; margin-right: 8px;" /> CMake
+  </div>
+  <div style="background: linear-gradient(135deg, #f24e1e, #b43514); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(242 78 30 / 0.5);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="24" style="vertical-align: middle; margin-right: 8px;" /> Figma
+  </div>
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-20232a?style=for-the-badge&logo=EJS&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Projeto</th>
+      <th style="text-align:center;">Descrição</th>
+      <th style="text-align:center;">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Mathdadz9/SistemaVendas" target="_blank" rel="noopener noreferrer">Sistema de Vendas</a></td>
+      <td>Gerenciamento completo de vendas, estoque e clientes.</td>
+      <td>Java, MySQL, HTML, CSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mathdadz9/AppFlutter" target="_blank" rel="noopener noreferrer">App Flutter</a></td>
+      <td>App mobile multiplataforma para controle de tarefas.</td>
+      <td>Flutter, Dart</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mathdadz9/portfolio" target="_blank" rel="noopener noreferrer">Portfolio Web</a></td>
+      <td>Website pessoal responsivo com projetos e contato.</td>
+      <td>TypeScript, React, SCSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mathdadz9/API-Node" target="_blank" rel="noopener noreferrer">API RESTful</a></td>
+      <td>API para gerenciamento de usuários e autenticação.</td>
+      <td>Node.js, Express, EJS, MySQL</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [**Sistema de Vendas**](https://github.com/Mathdadz9/SistemaVendas) | Aplicação para gerenciamento de vendas, estoque e clientes. | Java, MySQL, HTML, CSS |
-| [**App Flutter**](https://github.com/Mathdadz9/AppFlutter) | App mobile multiplataforma para controle de tarefas. | Flutter, Dart |
-| [**Portfolio Web**](https://github.com/Mathdadz9/portfolio) | Website pessoal responsivo com projetos e contato. | TypeScript, React, SCSS |
-| [**API RESTful**](https://github.com/Mathdadz9/API-Node) | API para gerenciamento de usuários e autenticação. | Node.js, Express, EJS, MySQL |
-
----
-
-## 📈 Minhas estatísticas no GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathdadz9&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdadz9&layout=compact&theme=dracula&hide_border=true)
+  ![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathdadz9&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdadz9&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Contatos
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55199988200964)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathdz9)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Matheuscrippacrippa@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)  
+  <a href="https://wa.me/55199988200964" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+  <a href="https://instagram.com/mathdz9" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:Matheuscrippacrippa@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
 ---
 
+<div align="center" style="margin-top: 30px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Piada Tech" />
+<div align="center" style="margin-top: 25px;">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Piada Tech" />
 </div>
