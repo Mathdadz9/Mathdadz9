@@ -19,47 +19,22 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: auto;">
-  <!-- card exemplo -->
-  <div style="background: linear-gradient(135deg, #3178c6, #1e3a8a); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(49 120 198 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="24" style="vertical-align: middle; margin-right: 8px;" /> TypeScript
-  </div>
-  <div style="background: linear-gradient(135deg, #f0db4f, #f7e018); color: #000; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(240 219 79 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="24" style="vertical-align: middle; margin-right: 8px;" /> JavaScript
-  </div>
-  <div style="background: linear-gradient(135deg, #3776ab, #244a6d); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(55 118 171 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Py" width="24" style="vertical-align: middle; margin-right: 8px;" /> Python
-  </div>
-  <div style="background: linear-gradient(135deg, #dd1b16, #a31612); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(221 27 22 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="24" style="vertical-align: middle; margin-right: 8px;" /> Angular
-  </div>
-  <div style="background: linear-gradient(135deg, #02569b, #013a5a); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(2 86 155 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="24" style="vertical-align: middle; margin-right: 8px;" /> Flutter
-  </div>
-  <div style="background: linear-gradient(135deg, #777bb4, #4a3f85); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(119 123 180 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="24" style="vertical-align: middle; margin-right: 8px;" /> PHP
-  </div>
-  <div style="background: linear-gradient(135deg, #c6538c, #952e5e); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(198 83 140 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="24" style="vertical-align: middle; margin-right: 8px;" /> SCSS
-  </div>
-  <div style="background: linear-gradient(135deg, #6e5494, #4b2e6a); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(110 84 148 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" style="vertical-align: middle; margin-right: 8px;" /> GitHub
-  </div>
-  <div style="background: linear-gradient(135deg, #ff6f61, #b23a2d); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(255 111 97 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24" style="vertical-align: middle; margin-right: 8px;" /> MySQL
-  </div>
-  <div style="background: linear-gradient(135deg, #4abf50, #2b772e); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(74 191 80 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="24" style="vertical-align: middle; margin-right: 8px;" /> Bash
-  </div>
-  <div style="background: linear-gradient(135deg, #00599c, #003b6f); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(0 89 156 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24" style="vertical-align: middle; margin-right: 8px;" /> C++
-  </div>
-  <div style="background: linear-gradient(135deg, #064f8c, #042e57); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(6 79 140 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="24" style="vertical-align: middle; margin-right: 8px;" /> CMake
-  </div>
-  <div style="background: linear-gradient(135deg, #f24e1e, #b43514); color: white; padding: 12px 24px; border-radius: 12px; font-weight: 600; box-shadow: 0 4px 15px rgb(242 78 30 / 0.5);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="24" style="vertical-align: middle; margin-right: 8px;" /> Figma
-  </div>
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 ---
