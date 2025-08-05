@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Matheus+Crippa!;Apaixonado+por+Tecnologia+e+Programação.;Bem-vindo+ao+meu+GitHub+🚀)](https://git.io/typing-svg)
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=140&section=header&text=Seja+Bem-vindo+👨‍💻&fontSize=48&fontAlign=70&fontColor=ffffff&animation=twinkle" />
+<div align="center" style="background: linear-gradient(90deg, #00BFFF 0%, #1E90FF 100%); padding: 40px 20px; border-radius: 15px; color: white; font-family: 'Fira Code', monospace;">
+  <h1 style="font-size: 3rem; margin-bottom: 10px;">👋 Olá, eu sou <span style="color:#FFD700;">Matheus Crippa</span>!</h1>
+  <p style="font-size: 1.5rem; margin: 5px 0;">✨ Apaixonado por <strong>Tecnologia</strong> e <strong>Programação</strong></p>
+  <p style="font-size: 1.2rem; margin: 5px 0;">💻 Bem-vindo ao meu <strong>GitHub</strong> — vamos codar juntos! 🚀</p>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Coding Animation" width="150" style="margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </div>
 
 ---
@@ -13,6 +14,7 @@
 - 💻 Cursando Java e Python para backend e automação  
 - 🎯 Focado em aprender rápido, criar projetos reais e contribuir com a comunidade  
 - 🤝 Aberto a desafios, colaborações e freelas  
+- 🔥 Atualmente desenvolvendo meu TCC: **Chime Conect**, um app estilo Discord com inteligência artificial integrada para suporte e uma área dedicada a desenvolvedores  
 
 ---
 
@@ -65,6 +67,11 @@
     <td><a href="https://github.com/Mathdadz9/API-Node" target="_blank">API RESTful</a></td>
     <td>API para gerenciamento de usuários e autenticação</td>
     <td>Node.js, Express, EJS, MySQL</td>
+  </tr>
+  <tr>
+    <td><b>Chime Conect (TCC)</b></td>
+    <td>App estilo Discord com IA integrada para suporte e área para desenvolvedores</td>
+    <td>Flutter, Node.js, IA, MySQL</td>
   </tr>
 </table>
 
