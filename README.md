@@ -82,11 +82,19 @@
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
-  ![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathdadz9&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img 
+    alt="Matheus GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=Mathdadz9&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    width="48%" 
+  />
 
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdadz9&layout=compact&theme=radical&hide_border=true)
+  <img 
+    alt="Top Linguagens" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdadz9&layout=compact&theme=radical&hide_border=true" 
+    width="48%" 
+  />
 
 </div>
 
