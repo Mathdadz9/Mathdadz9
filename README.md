@@ -1,7 +1,7 @@
 <div align="center" style="background: linear-gradient(135deg, #1E90FF, #00BFFF); padding: 60px 30px; border-radius: 20px; box-shadow: 0 8px 30px rgba(30,144,255,0.7); font-family: 'Fira Code', monospace; color: white; max-width: 900px; margin: auto;">
 
   <h1 style="font-size: 3.5rem; margin-bottom: 0.2em; text-shadow: 2px 2px 6px rgba(0,0,0,0.6);">
-   ლ(╹◡╹ლ) Olá, eu sou <span style="color: #FFD700;">Matheus Crippa</span>!
+   🙋‍♂️ Olá, eu sou <span style="color: #FFD700;">Matheus Crippa</span>!
   </h1>
   
   <p style="font-size: 1.7rem; margin: 0.1em 0 0.6em 0; text-shadow: 1px 1px 4px rgba(0,0,0,0.5);">
