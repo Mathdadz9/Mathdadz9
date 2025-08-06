@@ -55,34 +55,9 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Desenvolvendo Projeto Do Ano
 
 <table>
-  <tr>
-    <th align="left">Projeto</th>
-    <th align="left">Descrição</th>
-    <th align="left">Tecnologias</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mathdadz9/SistemaVendas" target="_blank">Sistema de Vendas</a></td>
-    <td>Gerenciamento completo de vendas, estoque e clientes</td>
-    <td>Java, MySQL, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mathdadz9/AppFlutter" target="_blank">App Flutter</a></td>
-    <td>Aplicativo mobile multiplataforma para controle de tarefas</td>
-    <td>Flutter, Dart</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mathdadz9/portfolio" target="_blank">Portfolio Web</a></td>
-    <td>Website pessoal responsivo com meus projetos e contato</td>
-    <td>TypeScript, React, SCSS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mathdadz9/API-Node" target="_blank">API RESTful</a></td>
-    <td>API para gerenciamento de usuários e autenticação</td>
-    <td>Node.js, Express, EJS, MySQL</td>
-  </tr>
   <tr>
     <td><b>Chime Conect (TCC)</b></td>
     <td>App estilo Discord com IA integrada para suporte e área para desenvolvedores</td>
