@@ -92,7 +92,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+
 
 <div align="center" style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
   <img 
